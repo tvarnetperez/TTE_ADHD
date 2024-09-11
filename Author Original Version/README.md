@@ -1,5 +1,5 @@
 # TTE_ADHD Author Original Version
-The present folder contains the code and for the Author Original Version of the article, i.e. 
+The present folder contains the code for the Author Original Version of the article, i.e. 
 
 >the un-refereed author version of an article completed before submission of the article to the journal. This is sometimes referred to as the “preprint” version. ([General Instructions from IJE](https://academic.oup.com/ije/pages/general_instructions))
 
