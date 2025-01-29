@@ -1,5 +1,5 @@
 # TTE_ADHD
-R Code for the analysis in the article: "Long-term effect of pharmacological treatment on academic achievement of Norwegian children diagnosed with ADHD: A Target Trial Emulation". The article has recently been submitted accepted at the International Journal of Epidemiology (24 January 2025).
+R Code for the analysis in the article: "Long-term effect of pharmacological treatment on academic achievement of Norwegian children diagnosed with ADHD: A Target Trial Emulation". The article has recently been accepted at the International Journal of Epidemiology (24 January 2025).
 
 ## Preliminaries
 
